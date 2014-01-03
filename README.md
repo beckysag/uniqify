@@ -9,4 +9,4 @@ Uniqify reads a text file and outputs the unique words in the file, sorted in al
 Usage
 -------------
 
-uniqify -c [# of processes] < inputfile
+```./uniqify -c [# of processes] < inputfile```
